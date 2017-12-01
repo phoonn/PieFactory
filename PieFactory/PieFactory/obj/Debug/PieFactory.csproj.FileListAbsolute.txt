@@ -1,0 +1,7 @@
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\bin\Debug\PieFactory.exe.config
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\bin\Debug\PieFactory.exe
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\bin\Debug\PieFactory.pdb
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\obj\Debug\PieFactory.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\obj\Debug\PieFactory.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\obj\Debug\PieFactory.exe
+C:\Users\fmi\Desktop\PieFactory-master\PieFactory\PieFactory\obj\Debug\PieFactory.pdb
